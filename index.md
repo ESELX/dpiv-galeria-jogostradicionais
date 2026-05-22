@@ -21,11 +21,12 @@ group_number: ""
 
 ## Elementos do Grupo
 
-| Número  | Nome    |
-| ------- | ------- |
-| 20XXXXX | Aluno A |
-| 20YYYYY | Aluno B |
-| 20ZZZZZ | Aluno C |
+| Número  | Nome            |
+| ------- | --------------- |
+| 2024319 | Adriana Cardoso |
+| 2024334 | Laura Santos    |
+| 2024283 | Luna Pascoal    |
+| 2024282 | M. Vitória Pina |
 
 ---
 
