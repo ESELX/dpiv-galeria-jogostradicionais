@@ -1,5 +1,5 @@
 ---
-title: JogosTradicionais
+title: Jogos Tradicionais
 icon: lucide/users
 tags: galeria
 status: not-started
