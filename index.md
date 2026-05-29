@@ -3,7 +3,7 @@ title: JogosTradicionais
 icon: lucide/users
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: attachments/fundo_obsidian.jpg
 hero_title: Pó Pó
 hero_subtitle: Adriana C., Laura S., Luna P., M. Vitória P.
 hero_height: 100vh
