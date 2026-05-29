@@ -1,11 +1,11 @@
 ---
-title: "Nome do Produto"
+title: Ludo
 icon: lucide/box
 tags: galeria
 status: not-started
 hero_image: attachments/hero.jpg
-hero_title: "Nome do Produto"
-hero_subtitle: "Nome do Aluno · 2025-26"
+hero_title: Ludo
+hero_subtitle: Laura Santos · 2025-26
 hero_height: 80vh
 hero_overlay: 0.25
 hero_align: center
