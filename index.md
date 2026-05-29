@@ -53,30 +53,26 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   <!-- duplicar o bloco abaixo para cada produto do grupo -->
 
-  <a class="gallery-card" href="produtos/_modelo/">
-    <img src="produtos/_modelo/attachments/hero.jpg" alt="" />
-    <h3>Nome do Produto</h3>
-    <p>Nome do Aluno</p>
-  </a>
+  
   <a class="gallery-card" href="produtos/adriana/">
     <img src="produtos/adriana/attachments/hero.jpg" alt="" />
-    <h3>Nome do Produto</h3>
-    <p>Nome do Aluno</p>
+    <h3>Jogo do galo</h3>
+    <p>Adriana Cardoso</p>
   </a>
   <a class="gallery-card" href="produtos/laura/">
     <img src="produtos/laura/attachments/hero.jpg" alt="" />
-    <h3>Nome do Produto</h3>
-    <p>Nome do Aluno</p>
+    <h3>Ludo</h3>
+    <p>Laura Santos</p>
   </a>
   <a class="gallery-card" href="produtos/luna/">
     <img src="produtos/luna/attachments/hero.jpg" alt="" />
-    <h3>Nome do Produto</h3>
-    <p>Nome do Aluno</p>
+    <h3>Quatro em linha</h3>
+    <p>Luna Pascoal</p>
   </a>
     <a class="gallery-card" href="produtos/vitoria/">
     <img src="produtos/vitoria/attachments/hero.jpg" alt="" />
-    <h3>Nome do Produto</h3>
-    <p>Nome do Aluno</p>
+    <h3>Damas</h3>
+    <p>Vitória Pina</p>
   </a>
   <!-- duplicar o bloco acima para cada produto do grupo  e substituir _modelo em ambas por <numero>-<nome> -->
 
