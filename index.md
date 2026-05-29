@@ -73,8 +73,8 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
     <h3>Nome do Produto</h3>
     <p>Nome do Aluno</p>
   </a>
-    <a class="gallery-card" href="produtos/vitória/">
-    <img src="produtos/vitória/attachments/hero.jpg" alt="" />
+    <a class="gallery-card" href="produtos/vitoria/">
+    <img src="produtos/vitoria/attachments/hero.jpg" alt="" />
     <h3>Nome do Produto</h3>
     <p>Nome do Aluno</p>
   </a>
