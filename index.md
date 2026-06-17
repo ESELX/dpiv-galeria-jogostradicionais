@@ -4,7 +4,7 @@ icon: lucide/users
 tags: galeria
 status: not-started
 hero_image: attachments/fundo_obsidian_2.jpg
-hero_title: Verdadeira tradição
+hero_title: Verdadeira Tradição
 hero_subtitle: Jogos de tabuleiro tradicionais
 hero_height: 100vh
 hero_overlay: 0.3
@@ -15,9 +15,9 @@ group_name: Jogos Tradicionais
 group_number: ""
 ---
 
-# By Nestor: verdadeira tradição
+# By Nestor: Verdadeira Tradição
 
-> Decidimos transformar jogos de tabuleiro em versões de madeira, de forma a recuperarem o seu formato tradicional.
+> Transformámos jogos de tabuleiro em versões de madeira, de forma a recuperarem o seu formato tradicional.
 
 ## Elementos do Grupo
 
@@ -33,6 +33,10 @@ group_number: ""
 ## Contexto de Design
 ![](attachments/placeholder.png)
 > Nesta zona pretenderão mostrar o que relaciona estes produtos que apresentam na galeria - a temática, conceito comum, objectivos comuns, brincadeiras (funções) comuns, entre outros...
+
+A marca By Nestor foca-se na sustentabilidade industrial, inovação no design e respeito pela herança cultural dos brinquedos em madeira modulares. O slogan “Verdadeira Tradição”, deve-se ao facto da marca se ter focado em transformar jogos de tabuleiro já existentes, conhecidos em quase todo o mundo, de forma a recuperarem o seu formato mais tradicional - madeira.
+
+Deste modo, encoraja também os jogadores a desconectarem-se das versões web/online que existem destes mesmos jogos, promovendo um momento em família e/ou amigos, criando conexões. Sendo que a maioria dos jogos pensados são de 2-4 jogadores, podem também ser uma forma de conectar uma geração mais nova com uma geração mais velha (avós e netos, por exemplo), despoletando treino mental e um momento de diversão.
 
 (devem colocar imagens no corpo a qq momento, bastará que as arrastem para aqui.)
 
