@@ -5,7 +5,7 @@ tags: galeria
 status: not-started
 hero_image: attachments/fundo_obsidian_2.jpg
 hero_title: Verdadeira tradição
-hero_subtitle: Adriana C., Laura S., Luna P., M. Vitória P.
+hero_subtitle: Jogos de tabuleiro tradicionais
 hero_height: 100vh
 hero_overlay: 0.3
 hero_align: center
