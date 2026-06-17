@@ -11,7 +11,7 @@ hero_overlay: 0.3
 hero_align: center
 published: true
 course: DesignDeProdutoIV
-group_name: JogosTradicionais
+group_name: Jogos Tradicionais
 group_number: ""
 ---
 
