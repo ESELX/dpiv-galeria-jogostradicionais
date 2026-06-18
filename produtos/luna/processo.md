@@ -68,6 +68,3 @@ Inventário de precedentes, brinquedos análogos, referências históricas.
 
 ![](attachments/placeholder.png)
 
-## 9. Outros Elementos
-
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
