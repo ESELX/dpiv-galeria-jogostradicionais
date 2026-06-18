@@ -22,8 +22,7 @@ student_number: ""
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 
-> Frase-conceito (uma linha): qual é a proposta?
-
+> Reune a família e entra em ação!
 
 ## Conceito
 
@@ -61,7 +60,21 @@ Desta forma, o projeto procura não só reforçar a experiência de jogo partilh
 
 ## Função
 
-Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
+**Como se brinca:** Cada jogador escolhe uma cor e tenta levar todas as suas peças desde a base inicial até à meta final, percorrendo o tabuleiro de acordo com o resultado do dado. Para iniciar o percurso, é necessário obter um determinado valor no dado, seguindo depois o movimento das peças ao longo do tabuleiro.
+
+Durante o jogo, os jogadores podem bloquear ou eliminar temporariamente as peças dos adversários, criando momentos de estratégia e interação. Vence o jogador que conseguir colocar todas as suas peças na meta primeiro. O jogo pode ser jogado por várias pessoas em simultâneo, incentivando a participação coletiva e o convívio.
+
+**Idade-alvo:** O projeto foi desenvolvido para crianças a partir dos 10 anos, faixa etária em que o jogo do Ludo se torna mais adequado devido à necessidade de compreender regras, gerir estratégias simples e acompanhar a dinâmica completa do jogo.
+
+Dentro do trabalho de grupo, cada elemento desenvolveu um jogo tradicional direcionado para uma faixa etária específica, criando um conjunto de propostas que acompanha diferentes fases do crescimento infantil. Esta abordagem procura demonstrar como os jogos tradicionais podem adaptar-se às capacidades e interesses das crianças ao longo do seu desenvolvimento, mantendo-se relevantes em diferentes idades e contextos de utilização.
+
+**Montagem:** O jogo é apresentado de forma desmontada, sendo necessário realizar a montagem das diferentes peças que compõem o tabuleiro antes da sua utilização. O ficheiro do Fusion seguinte mostra precisamente o conjunto de peças no seu estado desmontado, tal como são produzidas e entregues.
+
+Modelo 3D: https://a360.co/4oLBWkr
+
+**Conformidade com a Diretiva 2009/48/CE:** Este jogo foi criado de acordo com os princípios da Diretiva 2009/48/ CE relativa à segurança dos brinquedos. Durante a sua execução procurei garantir que todos os elementos deste jogo são seguros para os utilizadores, não apresentando qualquer risco quando utilizados de forma adequada.
+
+Os materiais e o design do jogo foram escolhidos para proporcionar uma experiência divertida e segura, em conformidade com as normas de segurança aplicáveis aos brinquedos na União Europeia.
 
 ## Apresentação
 
