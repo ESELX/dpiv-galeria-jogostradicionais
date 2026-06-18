@@ -37,10 +37,11 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 
 ## Tecnologia
 
-Materiais (espécie de madeira), processos de fabrico (CNC, laser, impressão 3D), software paramétrico, ficheiros técnicos.
+- Materiais: para a madeira, escolhemos a faia: devido à sua elevada densidade, resistência ao impacto e grão fechado, este material extremamente durável e seguro não lasca, protegendo as crianças contra o risco de farpas. (https://www.leroymerlin.pt/produtos/traseira-de-melamina-faia-daimiel-2440x1220x3mm-15663802.html)
+- Processos de fabrico: apesar de não termos impresso, o processo de fabrico seria feito na CNC.
+- Software paramétrico: Autodesk Fusion 360
 
 - Modelo 3D: https://a360.co/4oyfuLm
-- Ficheiros: `attachments/`
 
 ## Função
 

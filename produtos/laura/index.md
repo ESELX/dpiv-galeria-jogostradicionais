@@ -53,7 +53,7 @@ Desta forma, o projeto procura não só reforçar a experiência de jogo partilh
 
 ## Tecnologia
 
-- Materiais: para a madeira, escolhemos a faia: devido à sua elevada densidade, resistência ao impacto e grão fechado, este material extremamente durável e seguro não lasca, protegendo as crianças contra o risco de farpas. 
+- Materiais: para a madeira, escolhemos a faia: devido à sua elevada densidade, resistência ao impacto e grão fechado, este material extremamente durável e seguro não lasca, protegendo as crianças contra o risco de farpas. (https://www.leroymerlin.pt/produtos/traseira-de-melamina-faia-daimiel-2440x1220x3mm-15663802.html)
 - Processos de fabrico: apesar de não termos impresso, o processo de fabrico seria feito na CNC.
 - Software paramétrico: Autodesk Fusion 360
 
