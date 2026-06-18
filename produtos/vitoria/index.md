@@ -47,7 +47,11 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 
 ## Função
 
-Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
+**Como se brinca:** Cada jogador escolhe uma cor e tenta levar todas as suas peças desde a base inicial até à meta final, percorrendo o tabuleiro de acordo com o resultado do dado. Para iniciar o percurso, é necessário obter um determinado valor no dado, seguindo depois o movimento das peças ao longo do tabuleiro.
+
+Durante o jogo, os jogadores podem bloquear ou eliminar temporariamente as peças dos adversários, criando momentos de estratégia e interação. Vence o jogador que conseguir colocar todas as suas peças na meta primeiro. O jogo pode ser jogado por várias pessoas em simultâneo, incentivando a participação coletiva e o convívio.
+
+Idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
 
 ## Apresentação
 
