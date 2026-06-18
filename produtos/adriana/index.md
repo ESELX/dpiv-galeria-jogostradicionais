@@ -24,8 +24,6 @@ student_number: ""
 
 > Jogo tradicional mundialmente conhecido, em formato de madeira.
 
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
 
 ## Conceito
 
