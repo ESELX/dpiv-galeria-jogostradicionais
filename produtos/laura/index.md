@@ -80,9 +80,7 @@ Os materiais e o design do jogo foram escolhidos para proporcionar uma experiên
 
 Imagens-chave que sintetizam o produto final.
 
-![](attachments/mock_ludo_jogar.jpg)
-![](attachments/mock_ludo_maos.jpg)
-![](attachments/mock_ludo_tab_aberto.jpg)
+![](attachments/mock_ludo_jogar.jpg)![](attachments/mock_ludo_tab_aberto.jpg)
 
 ---
 

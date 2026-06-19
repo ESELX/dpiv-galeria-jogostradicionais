@@ -27,7 +27,15 @@ student_number: ""
 
 ## Conceito
 
-Ideia central do produto. O que é, para quem, porquê.
+O projeto consiste na reinterpretação do jogo tradicional do Ludo, com o objetivo de reforçar o convívio entre gerações. Pretendo valorizar este jogo como um momento de partilha, onde crianças, adultos e idosos se reúnem em torno de uma atividade simples, acessível e envolvente, que combina sorte, estratégia básica e interação social.
+
+- **O que é:** É um jogo de tabuleiro clássico em que cada jogador tenta levar as suas peças até à meta, de acordo com o resultado dos dados. Mantém as regras tradicionais do Ludo, sendo um jogo de fácil compreensão e adequado a diferentes idades.
+
+As peças são pensadas para uma leitura clara do jogo e para uma experiência de utilização intuitiva e confortável.
+
+- **Para quem:** Destina-se a famílias e grupos de diferentes idades, especialmente crianças com mais de 10 anos e pessoas mais velhas. É pensado para promover momentos de convívio entre avós, pais e filhos, incentivando a interação, a conversa e o tempo partilhado.
+
+- **Porquê:** O projeto surge da vontade de recuperar jogos tradicionais como o Ludo, que fazem parte da memória coletiva e da cultura do jogo em família. Num contexto cada vez mais digital e individualizado, pretende-se incentivar experiências presenciais e momentos de interação direta entre jogadores.
 
 ![](attachments/placeholder.png)
 
