@@ -27,7 +27,7 @@ published: true
 
 ## 2. Processo de Prototipagem
 
-Maquinação CNC, montagem, acabamentos pontuais. 
+Apesar de não ter impresso
 
 ![](attachments/placeholder.png)
 
