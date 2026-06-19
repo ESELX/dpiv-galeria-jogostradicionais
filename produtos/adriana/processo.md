@@ -18,7 +18,7 @@ published: true
 
 ## 1. Renders
 
-![697](attachments/adri_render1.png)
+![](attachments/adri_render1.png)
 ![](attachments/adri_render2.png)
 ![](attachments/adri_render3.png)
 ![](attachments/adri_render4.png)
