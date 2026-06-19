@@ -51,4 +51,4 @@ No decorrer do projeto apercebi-me de que não tinham nenhum local onde poderiam
 objetos de referência 
 Tendo em conta o clássico jogo de damas e o seu tão bem conhecido design visual para o meu projeto tentei dinamiza-lo e tomei como referência o “Jogo de Tabuleiro Xadrez e Damas" vendido na fnac, este tem como destaque tambem os seus compartimentos para armazenar as diferentes peças dos dois jogos (https://www.fnac.pt/Xadrez-e-Damas-Jogos-de-Sociedade-Jogo-de-Tabuleiro/a10327076), outro tabuleiro que tive como referência o do Outlet El Corte Inglés, este modelo auxiliou-me a muito no conceito base do jogo em si (https://www.fnac.pt/Jogo-de-Damas-Jogos-de-Sociedade-Jogo-Tradicional/a844235).
 
-![](attachments/placeholder.png)
+![](attachments/vit_refs.png)
