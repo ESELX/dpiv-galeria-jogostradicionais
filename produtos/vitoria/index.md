@@ -14,7 +14,7 @@ student_name: ""
 student_number: ""
 ---
 
-# Nome do Produto
+# Damas
 
 <!--
   HERO: idealmente uma pseudo-sessão fotográfica do produto
@@ -22,20 +22,33 @@ student_number: ""
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 
-> Frase-conceito (uma linha): qual é a proposta?
-
-A página deve tornar **visualmente percetível** a estratégia de resposta ao enunciado.
-Segue a estrutura de **prancha-resumo** + **esquema-base** (C-E-T-F).
+> O grande jogo clássico de estratégia e desafio em que o teu objectivo é eliminar as peças do teu adversário.
 
 ## Conceito
 
-Ideia central do produto. O que é, para quem, porquê.
+Jogo de Damas é um jogo de estratégia clássico, composto por um tabuleiro quadriculado e peças de duas cores distintas. O objetivo é capturar as peças do adversário através de movimentos diagonais e planeamento estratégico, promovendo desafios intelectuais.
 
-![](attachments/placeholder.png)
+**O que é:**
+Um jogo de tabuleiro tradicional para dois jogadores, em que cada participante movimenta as suas peças de forma estratégica para capturar as do oponente e conseguir alcançar a vitória. As regras são simples de aprender, mas permitem desenvolver estratégias cada vez mais complexas.
+
+**Para quem:**
+Crianças a partir dos 6 anos, jovens, adultos ou idosos que apreciam jogos de raciocínio e estratégia, assim originado um momento de convívio.
+
+**Porquê:**
+O jogo de damas estimula o pensamento lógico, a capacidade de antecipação e tomada de decisões. Ao analisar diferentes possibilidades de movimento e prever as ações do adversário, os jogadores desenvolvem habilidades como a concentração, a paciência e as competências de resolução de problemas, enquanto podem desfrutar de uma atividade lúdica e intemporal.
+
+
+![](attachments/vit_conceito.png)
 
 ## Enquadramento
 
-Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
+O projeto parte da ideia de reunir pessoas de diferentes fachas etárias, principalmente no contexto familiar, criando assim experiências prazerosas. Numa sociedade que cada vez mais é marcada pelo uso constante de dispositivos digitais, a marca procura valorizar o contacto humano através deste jogo de damas, este agora leva crianças, jovens, adultos e idosos a juntarem se para criar memórias.
+
+Tirando partido deste fator das novas tecnologias terem vindo a servir como uma alternativa digital para as novas gerações e por vezes as mais velhas também, o projeto tenta intervir com este afastamento social trazendo as pessoas novamente para momentos de lazer e interação intergeracional.
+
+O jogo das damas é um jogo clássico que envolve estratégia, mas utilizando regas simples o que facilita na participação de diversas gerações. Estes aspetos promovem ainda mais a interação entre os mais novos e os mais velhos.
+
+Assim sendo, a marca tenta contribuir para que os jogos tradicionais não caiam no esquecimento, enquanto ajuda para que estes não se tornem apenas em alternativas digitais e tenta proporcionar a criação de laços, o diálogo e a troca de conhecimentos e experiências. (ver [contexto](../../contexto.md)) 
 
 ## Tecnologia
 
@@ -48,15 +61,20 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 ## Função
 
 **Como se brinca:** 
+O jogo de damas é disputado entre dois jogadores num tabuleiro quadriculado. Cada participante movimenta as suas peças na diagonal, procurando capturar as peças do adversário e impedir os seus movimentos. Quando uma peça alcança a última fila do lado oposto do tabuleiro, é promovida a dama, ganhando maior liberdade de movimentação. O objetivo do jogo é capturar todas as peças do oponente ou deixá-lo sem movimentos possíveis. A simplicidade das regras torna o jogo acessível a todas as idades, enquanto as diferentes estratégias possíveis garantem desafios constantes e estimulantes.
 
-Idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
+**Idade:**
+6 a 60+ anos
+
+**Conformidade com a Diretiva 2009/48/CE:**
+O jogo foi concebido de acordo com princípios de segurança adequados à utilização por crianças. As peças apresentam superfícies lisas e arestas arredondadas, reduzindo o risco de ferimentos durante o manuseamento. As suas dimensões foram definidas de forma a minimizar riscos associados à ingestão acidental, respeitando os requisitos aplicáveis a brinquedos destinados a crianças. Os materiais utilizados são resistentes e duráveis, garantindo a integridade das peças durante a utilização frequente. Não são utilizadas substâncias tóxicas nem tratamentos químicos nocivos, assegurando a conformidade com os requisitos da norma EN 71 relativos à segurança dos brinquedos e ao contacto seguro com a pele.
 
 ## Apresentação
 
 Imagens-chave que sintetizam o produto final.
 
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![](attachments/mock_damas_maos.png)
+![](attachments/mock_damas_pessoas.png)
 
 ---
 

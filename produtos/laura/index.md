@@ -38,7 +38,7 @@ As peças são pensadas para uma leitura clara do jogo e para uma experiência d
 
 O Ludo, pela sua simplicidade e universalidade, permite que pessoas de diferentes idades joguem em igualdade, promovendo inclusão, comunicação e diversão partilhada.
 
-![](attachments/placeholder.png)
+![](attachments/laura_conceito.jpeg)
 
 ## Enquadramento
 
