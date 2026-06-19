@@ -3,7 +3,7 @@ title: Jogo do galo
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: attachments/galo_fusion.png
 hero_title: Jogo do galo
 hero_subtitle: Adriana Cardoso · 2025-26
 hero_height: 80vh

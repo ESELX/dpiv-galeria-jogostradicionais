@@ -3,7 +3,7 @@ title: Quatro em linha
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: attachments/quatro_fusion.png
 hero_title: Quatro em linha
 hero_subtitle: Luna Pascoal · 2025-26
 hero_height: 80vh

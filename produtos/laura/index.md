@@ -3,7 +3,7 @@ title: Ludo
 icon: lucide/box
 tags: galeria
 status: not-started
-hero_image: attachments/hero.jpg
+hero_image: attachments/ludo_fusion.jpeg
 hero_title: Ludo
 hero_subtitle: Laura Santos · 2025-26
 hero_height: 80vh
