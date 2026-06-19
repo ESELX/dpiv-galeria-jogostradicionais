@@ -82,7 +82,7 @@ A resistência e durabilidade da madeira escolhida (Faia), garantem uma maior se
 
 ![](attachments/luna_apresent.jpeg)
 ![](attachments/mock_quatro_pessoas.jpeg)
-
+> Imagem geradas por Inteligência Artifical.
 ---
 
 ## Processo

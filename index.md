@@ -33,6 +33,7 @@ group_number: ""
 ## Contexto de Design
 
 ![](attachments/mockups_mesa.jpeg)
+> Imagens geradas por Inteligência Artifical.
 
 A marca By Nestor foca-se na sustentabilidade industrial, inovação no design e respeito pela herança cultural dos brinquedos em madeira modulares. O slogan “Verdadeira Tradição”, deve-se ao facto da marca se ter focado em transformar jogos de tabuleiro já existentes, conhecidos em quase todo o mundo, de forma a recuperarem o seu formato mais tradicional - madeira.
 

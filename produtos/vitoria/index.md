@@ -75,7 +75,7 @@ Imagens-chave que sintetizam o produto final.
 
 ![](attachments/mock_damas_maos.png)
 ![](attachments/mock_damas_pessoas.png)
-
+> Imagens geradas por Inteligência Artifical.
 ---
 
 ## Processo
