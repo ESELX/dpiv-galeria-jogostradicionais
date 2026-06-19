@@ -24,52 +24,32 @@ published: true
 ![](attachments/adri_render4.png)
 ![](attachments/adri_render5.png)
 ![](attachments/adri_render6.png)
+![](attachments/adri_medidas.jpg)
 
 ## 2. Processo de Prototipagem
 
-Apesar de não ter impresso
+Apesar de não ter impresso o meu protótipo para o projeto, reconheço que teria sido importante para criar mais independência no uso de uma CNC, compreender a utilização e funcionamento dos equipamentos num Fablab, e principalmente perceber o que poderia corrigir e/ou melhorar no meu projeto
 
-![](attachments/placeholder.png)
-
-
-## 3. Protótipos Exploratórios
-
-Testes CNC prévios, ensaios em escala, experiências de juntas/encaixes.
-
-![](attachments/placeholder.png)
-
-## 4. Modelos 3D
+## 3. Modelos 3D
 
 Embed do Fusion (visualização do modelo paramétrico).
 
 https://a360.co/4oyfuLm
 
-## 5. Outros Modelos
+## 4. Esboços e Pranchas-Resumo
 
-Modelos físicos exploratórios, em cartão, espuma, madeira de teste.
+- A 1ª imagem são alguns esboços que fiz para decidir como seria o encaixe, e a 2ª imagem é a prancheta inicial. A 3ª imagem é já uma prancheta na fase final, com a ideia estabelecida.
 
-![](attachments/placeholder.png)
+![](attachments/adri_esb.jpeg)
+![](attachments/adri_pranch2.jpeg)
+![](attachments/adri_pranch.jpeg)
 
-## 6. Esboços e Pranchas-Resumo
 
-Desenhos manuais, 
-pranchas A3 de síntese, 
-exploração de variantes.
+## 5. Pesquisa
+### 5.1. Objetos de referência
 
-![](attachments/placeholder.png)
+Como inspiração usei vários jogos do galo, para perceber qual a melhor maneira e solução a aplicar, na versão que eu iria redesenhar.
 
-## 7. Pesquisa
 
-### 7.1. Aspectos valorizados do moodboard, desconstrução da forma (o que distingue o programa formal)
+![](attachments/adri_refs.png)
 
-![](attachments/placeholder.png)
-
-### 7.2. Objetos de referencia
-
-Inventário de precedentes, brinquedos análogos, referências históricas.
-
-![](attachments/placeholder.png)
-
-## 9. Outros Elementos
-
-Outros materiais relevantes para a preparação do conceito (entrevistas, observação, testes com utilizadores, notas, leituras, inspirações).
