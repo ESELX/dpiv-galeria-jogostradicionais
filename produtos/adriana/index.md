@@ -31,9 +31,7 @@ O projeto consiste na reinterpretação do jogo tradicional do Ludo, com o objet
 
 - **O que é:** O Jogo do Galo é um jogo clássico de tabuleiro e estratégia, para dois jogadores. O objetivo principal é ser o primeiro a alinhar três símbolos iguais na horizontal, vertical ou diagonal num tabuleiro de 3 × 3
 
-As peças são pensadas para uma leitura clara do jogo e para uma experiência de utilização intuitiva e confortável.
-
-- **Para quem:** Destina-se a famílias e grupos de diferentes idades, especialmente crianças com mais de 10 anos e pessoas mais velhas. É pensado para promover momentos de convívio entre avós, pais e filhos, incentivando a interação, a conversa e o tempo partilhado.
+- **Para quem se destina:** Destina-se a famílias e grupos de diferentes idades, especialmente crianças com mais de 10 anos e pessoas mais velhas. É pensado para promover momentos de convívio entre avós, pais e filhos, incentivando a interação, a conversa e o tempo partilhado.
 
 - **Porquê:** O projeto surge da vontade de recuperar jogos tradicionais como o Ludo, que fazem parte da memória coletiva e da cultura do jogo em família. Num contexto cada vez mais digital e individualizado, pretende-se incentivar experiências presenciais e momentos de interação direta entre jogadores.
 
