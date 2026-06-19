@@ -37,10 +37,12 @@ Para o desenvolvimento deste projeto, decidimos "devolver" o formato tradicional
 
 ## Enquadramento
 
-O Jogo do Galo pertence á marca Nestor, que nos traz um sentido de tradição com a linha de jogos clássicos criada pela Verdadeira Tradição, adaptando se a várias idades tornando a linha intergeracional.
+Como já foi referido, a marca By Nestor definiu um objetivo claro: devolver aos jogos tradicionais o seu formato em madeira, visando a desconexão de jogos em formato online e promovendo a conexão social entre seres humanos.
 
-O Jogo do Galo é composto por um tabuleiro onde as peças são encaixadas, são elas 9 Xs e 9 círculos, que se encaixam no tabuleiro de maneira a ficarem arrumados.
-Este jogo é jogado por 2 jogadores, a batalhar para criar uma fila de 3 (Xs ou círculos) na diagonal, vertical, ou horizontal, quem for o primeiro a criar essa fila vence. (ver [contexto](../../contexto.md))
+O Jogo do Galo é composto por um tabuleiro onde as peças são encaixadas, são elas 9 X e 9 O, que se encaixam no tabuleiro de maneira a ficarem arrumados.
+É jogado por 2 jogadores, a batalhar para criar uma fila de 3 (X ou O) na diagonal, vertical, ou horizontal, e quem for o primeiro a criar essa fila vence.
+
+É muito importantes que os jogos de tabuleiros sejam respeitados e preservados, independentemente do seu formato físico - uma vez que a sua história remonta há milhares de anos. Escolhemos "re"criar jogos de tabuleiro em madeira, por se tornarem objetos quase inquebráveis e de extrema durabilidade, tornando-os intemporais. (ver [contexto](../../contexto.md))
 
 ## Tecnologia
 
@@ -52,7 +54,7 @@ Este jogo é jogado por 2 jogadores, a batalhar para criar uma fila de 3 (Xs ou 
 
 ## Função
 
-- **Como se brinca:** Os jogadores decidem de forma aleatória ou por acordo quem começa a partida; de seguida cada jogador coloca apenas uma peça por turno num espaço vazio
+- **Como se brinca:** Os jogadores decidem de forma aleatória ou por acordo quem começa a partida; de seguida cada jogador coloca apenas uma peça por turno num espaço vazio. Parte da estratégia é impedir que o oponente coloque outro símbolo e complete uma linha (na vertical, horizontal ou diagonal). Não é permitido colocar peças num buraco que já esteja ocupado. Se todos os 9 espaços forem preenchidos sem nenhum jogar preencher uma linha de três buracos, o jogo termina empatado.
 
 - **Idade-alvo:** 6-99
 
