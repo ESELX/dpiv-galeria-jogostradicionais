@@ -43,7 +43,7 @@ Desde crianças a partir de 5-6 anos a idosos, que faz com que se crie uma conex
 Este jogo incentiva a conexão entre gerações, e o convívio entre jogadores, mas também com as suas diferentes combinações e estratégias, faz com que sejam desenvolvidas a coordenação motora, a parte cognitiva, e o pensamento estratégico tanto dos mais novos, como também dos mais velhos.
 
 
-![](attachments/placeholder.png)
+![](attachments/luna_conceito.jpeg)
 
 ## Enquadramento
 
@@ -79,10 +79,9 @@ A resistência e durabilidade da madeira escolhida (Faia), garantem uma maior se
 
 ## Apresentação
 
-Imagens-chave que sintetizam o produto final.
 
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
+![](attachments/luna_apresent.jpeg)
+![](attachments/mock_quatro_pessoas.jpeg)
 
 ---
 
