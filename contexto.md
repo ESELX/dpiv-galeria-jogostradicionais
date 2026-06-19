@@ -67,4 +67,6 @@ Painel de referências visuais e conceptuais que orientam a estratégia do grupo
 
 ### 3. Embalagem
 
-![](embalagem1.jpeg)![](embalagem2.jpeg)![](embalagem3.jpeg)
+![Objeto 1](attachments/embalagem1.jpeg)
+![Objeto 1](attachments/embalagem2.jpeg)
+![Objeto 1](attachments/embalagem3.jpeg)

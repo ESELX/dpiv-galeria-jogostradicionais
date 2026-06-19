@@ -26,7 +26,7 @@ student_number: ""
 
 ## Conceito
 
-Jogo de Damas é um jogo de estratégia clássico, composto por um tabuleiro quadriculado e peças de duas cores distintas. O objetivo é capturar as peças do adversário através de movimentos diagonais e planeamento estratégico, promovendo desafios intelectuais.
+O Jogo de Damas é um jogo de estratégia clássico, composto por um tabuleiro quadriculado e peças de duas cores distintas. O objetivo é capturar as peças do adversário através de movimentos diagonais e planeamento estratégico, promovendo desafios intelectuais.
 
 **O que é:**
 Um jogo de tabuleiro tradicional para dois jogadores, em que cada participante movimenta as suas peças de forma estratégica para capturar as do oponente e conseguir alcançar a vitória. As regras são simples de aprender, mas permitem desenvolver estratégias cada vez mais complexas.
