@@ -59,22 +59,22 @@ Resumo, referências coletivas e moodboard do grupo encontram-se em [contexto.md
 
   
   <a class="gallery-card" href="produtos/adriana/">
-    <img src="produtos/adriana/attachments/hero.jpg" alt="" />
+    <img src="produtos/adriana/attachments/galo_fusion.png" alt="" />
     <h3>Jogo do galo</h3>
     <p>Adriana Cardoso</p>
   </a>
   <a class="gallery-card" href="produtos/laura/">
-    <img src="produtos/laura/attachments/hero.jpg" alt="" />
+    <img src="produtos/laura/attachments/ludo_fusion.jpeg" alt="" />
     <h3>Ludo</h3>
     <p>Laura Santos</p>
   </a>
   <a class="gallery-card" href="produtos/luna/">
-    <img src="produtos/luna/attachments/hero.jpg" alt="" />
+    <img src="produtos/luna/attachments/quatro_fusion.png" alt="" />
     <h3>Quatro em linha</h3>
     <p>Luna Pascoal</p>
   </a>
     <a class="gallery-card" href="produtos/vitoria/">
-    <img src="produtos/vitoria/attachments/hero.jpg" alt="" />
+    <img src="produtos/vitoria/attachments/damas_fusion.jpeg" alt="" />
     <h3>Damas</h3>
     <p>Vitória Pina</p>
   </a>
