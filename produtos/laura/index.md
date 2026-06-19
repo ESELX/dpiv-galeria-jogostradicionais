@@ -22,7 +22,7 @@ student_number: ""
   /Recursos/AI_exps/). Usa attachments/hero.jpg para o frontmatter.
 -->
 
-> Reune a família e entra em ação!
+> Reúne a família e entra em ação!
 
 ## Conceito
 

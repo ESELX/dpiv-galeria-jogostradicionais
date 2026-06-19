@@ -42,7 +42,7 @@ O jogo de damas estimula o pensamento lógico, a capacidade de antecipação e t
 
 ## Enquadramento
 
-O projeto parte da ideia de reunir pessoas de diferentes fachas etárias, principalmente no contexto familiar, criando assim experiências prazerosas. Numa sociedade que cada vez mais é marcada pelo uso constante de dispositivos digitais, a marca procura valorizar o contacto humano através deste jogo de damas, este agora leva crianças, jovens, adultos e idosos a juntarem se para criar memórias.
+O projeto parte da ideia de reunir pessoas de diferentes faixas etárias, principalmente no contexto familiar, criando assim experiências prazerosas. Numa sociedade que cada vez mais é marcada pelo uso constante de dispositivos digitais, a marca procura valorizar o contacto humano através deste jogo de damas, este agora leva crianças, jovens, adultos e idosos a juntarem se para criar memórias.
 
 Tirando partido deste fator das novas tecnologias terem vindo a servir como uma alternativa digital para as novas gerações e por vezes as mais velhas também, o projeto tenta intervir com este afastamento social trazendo as pessoas novamente para momentos de lazer e interação intergeracional.
 

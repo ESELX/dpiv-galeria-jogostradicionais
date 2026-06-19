@@ -27,19 +27,20 @@ student_number: ""
 
 ## Conceito
 
-para o desenvolvimento deste projeto, decidimos  do jogo tradicional do Ludo, com o objetivo de reforçar o convívio entre gerações. Pretendo valorizar este jogo como um momento de partilha, onde crianças, adultos e idosos se reúnem em torno de uma atividade simples, acessível e envolvente, que combina sorte, estratégia básica e interação social.
+Para o desenvolvimento deste projeto, decidimos "devolver" o formato tradicional a vários jogos de tabuleiro, com o objetivo de reforçar o convívio físico com as pessoas que mais amamos. É uma maneira de promover interações sociais e treino mental, tanto para os mais novos como para os mais velhos. É um jogo que se aprende muito rápido (para quem não conhece as regras), e torna-se bastante divertido devido às suas inúmeras combinações e partidas rápidas.
 
-- **O que é:** O Jogo do Galo é um jogo clássico de tabuleiro e estratégia, para dois jogadores. O objetivo principal é ser o primeiro a alinhar três símbolos iguais na horizontal, vertical ou diagonal num tabuleiro de 3 × 3
+- **O que é:** O jogo do galo é um jogo clássico de tabuleiro e estratégia, para dois jogadores. O objetivo principal é ser o primeiro a alinhar três símbolos iguais na horizontal, vertical ou diagonal num tabuleiro de 3x3.
 
-- **Para quem se destina:** Destina-se a famílias e grupos de diferentes idades, especialmente crianças com mais de 10 anos e pessoas mais velhas. É pensado para promover momentos de convívio entre avós, pais e filhos, incentivando a interação, a conversa e o tempo partilhado.
+- **Para quem se destina:** O jogo do galo pode ser jogado por pessoas de qualquer idade, não havendo limite de idades. O minímo recomendado são 5-6 anos da idade (dependendo do tamanho do kit e das respetivas peças). Pode ser jogado entre amigos, pais e filhos, pais e netos, por exemplo. 
 
-- **Porquê:** O projeto surge da vontade de recuperar jogos tradicionais como o Ludo, que fazem parte da memória coletiva e da cultura do jogo em família. Num contexto cada vez mais digital e individualizado, pretende-se incentivar experiências presenciais e momentos de interação direta entre jogadores.
-
-![](attachments/placeholder.png)
+![](attachments/adri_conceito.png)
 
 ## Enquadramento
 
-Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.md)) e à recolha de objetos a redesenhar.
+O Jogo do Galo pertence á marca Nestor, que nos traz um sentido de tradição com a linha de jogos clássicos criada pela Verdadeira Tradição, adaptando se a várias idades tornando a linha intergeracional.
+
+O Jogo do Galo é composto por um tabuleiro onde as peças são encaixadas, são elas 9 Xs e 9 círculos, que se encaixam no tabuleiro de maneira a ficarem arrumados.
+Este jogo é jogado por 2 jogadores, a batalhar para criar uma fila de 3 (Xs ou círculos) na diagonal, vertical, ou horizontal, quem for o primeiro a criar essa fila vence. (ver [contexto](../../contexto.md))
 
 ## Tecnologia
 
@@ -51,15 +52,21 @@ Posicionamento em relação ao contexto de grupo (ver [contexto](../../contexto.
 
 ## Função
 
-Como se brinca, idade-alvo, montagem, conformidade com a Diretiva 2009/48/CE.
+- **Como se brinca:** Os jogadores decidem de forma aleatória ou por acordo quem começa a partida; de seguida cada jogador coloca apenas uma peça por turno num espaço vazio
+
+- **Idade-alvo:** 6-99
+
+- **Montagem:** O jogo possui uma arrumação bastante fácil, sendo que as peças X e O ficam ambas armazenadas no mesmo buraco (o X no encaixe, e o O fica à sua volta, ficando "preso": o que faz com que a peça não ande de um lado para o outro). Apesar de só serem precisas 5 peças de cada símbolo, eu decidi colocar 9 para ficarem como peças suplentes.
+
+- **Conformidade com a Diretiva 2009/48/CE:** Este jogo foi criado de acordo com os princípios da Diretiva 2009/48/ CE relativa à segurança dos brinquedos: o tamanho das peças é o inidicado (de forma a não haver asfixia), e as peças não têm pontas bicudas.
 
 ## Apresentação
 
 Imagens-chave que sintetizam o produto final.
 
-![](attachments/placeholder.png)
-![](attachments/placeholder.png)
-
+![](attachments/mock_galo_jogo.png)
+![](attachments/mock_galo_jogo2.jpeg)
+> Imagem geradas por Inteligência Artifical.
 ---
 
 ## Processo

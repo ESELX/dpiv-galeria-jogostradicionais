@@ -79,6 +79,7 @@ A resistência e durabilidade da madeira escolhida (Faia), garantem uma maior se
 
 ## Apresentação
 
+Imagens-chave que sintetizam o produto final.
 
 ![](attachments/luna_apresent.jpeg)
 ![](attachments/mock_quatro_pessoas.jpeg)
