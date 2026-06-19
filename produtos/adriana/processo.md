@@ -19,13 +19,13 @@ published: true
 ## 1. Renders
 
 
+![](attachments/adri_render6.png)
+![](attachments/adri_medidas.jpg)
 ![](adri_render1.PNG)
 ![](adri_render2.PNG)
 ![](adri_render3.PNG)
 ![](adri_render4.PNG)
 ![](adri_render5.PNG)
-![](attachments/adri_render6.png)
-![](attachments/adri_medidas.jpg)
 
 ## 2. Processo de Prototipagem
 
