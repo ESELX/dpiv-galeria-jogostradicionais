@@ -82,7 +82,7 @@ Imagens-chave que sintetizam o produto final.
 
 ![](attachments/mock_ludo_jogar.jpg)
 ![](attachments/mock_ludo_maos.jpg)
-![](mock_ludo_tab_aberto.jpg)
+![](attachments/mock_ludo_tab_aberto.jpg)
 
 ---
 
